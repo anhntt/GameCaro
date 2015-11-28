@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Bruno
+ * @author anhnghiammk
  */
 public class GameServer extends javax.swing.JFrame implements ActionListener {
 
