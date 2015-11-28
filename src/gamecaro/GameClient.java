@@ -7,7 +7,7 @@ package gamecaro;
 
 /**
  *
- * @author Bruno
+ * @author anhnghiammk
  */
 import java.awt.Color;
 import java.awt.Font;
