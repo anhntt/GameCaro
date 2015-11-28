@@ -9,7 +9,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author Bruno
+ * @author anhnghiammk
  */
 public class MyButton extends JButton {
 
